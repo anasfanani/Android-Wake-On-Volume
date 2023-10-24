@@ -1,0 +1,6 @@
+id=Android-Wake-On-Volume
+name=Wake On Volume
+version=1.0
+versionCode=1
+author=anasfanani
+description=Enable Wake On Volume for broken power button
